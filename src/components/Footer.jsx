@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex flex-col md:flex-row justify-between items-center">
                     <div className="mb-8 md:mb-0 text-center md:text-left">
-                        <span className="text-emerald-700 dark:text-emerald-400 font-bold text-2xl tracking-wider">AGRO-ROVER</span>
+                        <span className="text-emerald-700 dark:text-emerald-400 font-bold text-2xl tracking-wider">Garden Rover</span>
                         <p className="text-gray-500 dark:text-gray-500 mt-2 text-sm">Smart Garden Brain Robot</p>
                         <p className="text-gray-500 dark:text-gray-500 mt-2 text-sm">Think, Planed and Executed by Govind Mehta</p>
                         <p className="text-gray-500 dark:text-gray-500 mt-2 text-sm">govindmehta4658@gmail.com</p>
@@ -54,7 +54,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="mt-12 text-center text-gray-400 dark:text-gray-600 text-xs border-t border-gray-200 dark:border-white/5 pt-8">
-                    &copy; {new Date().getFullYear()} Agro-Rover Inc. All rights reserved.
+                    &copy; {new Date().getFullYear()} Garden Rover Inc. All rights reserved.
                 </div>
             </div>
         </footer>

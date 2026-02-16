@@ -440,7 +440,7 @@ const GardenSimulationSection = () => {
                     <div className="w-8 h-8 bg-gradient-to-br from-blue-600 to-purple-600 rounded-lg flex items-center justify-center shadow-lg">
                         <Radar className="text-white" size={18} />
                     </div>
-                    <h1 className="font-bold tracking-wider">AGRI-BOT <span className="text-blue-500">MISSION CONTROL</span></h1>
+                    <h1 className="font-bold tracking-wider">Garden Rover <span className="text-blue-500">MISSION CONTROL</span></h1>
                 </div>
 
                 <div className="flex bg-black/40 p-1 rounded-lg border border-white/5 gap-1">

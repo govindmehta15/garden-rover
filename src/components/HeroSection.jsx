@@ -95,7 +95,7 @@ const HeroSection = () => {
                                 <div className="w-3 h-3 rounded-full bg-green-500/80"></div>
                             </div>
                             <div className="uppercase text-xs tracking-widest text-emerald-600 dark:text-emerald-500/80 font-mono font-bold">
-                                AGRO-ROVER LIVE FEED
+                                GARDEN ROVER LIVE FEED
                             </div>
                         </div>
 

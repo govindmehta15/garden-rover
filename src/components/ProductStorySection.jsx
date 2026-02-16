@@ -23,7 +23,7 @@ const ProductStorySection = () => {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="text-center mb-16">
                     <h2 className="text-3xl font-extrabold text-gray-900 dark:text-white sm:text-4xl mb-4">
-                        Why <span className="text-emerald-600 dark:text-emerald-400">Agro-Rover?</span>
+                        Why <span className="text-emerald-600 dark:text-emerald-400">Garden Rover?</span>
                     </h2>
                     <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto leading-relaxed">
                         Traditional gardening relies on guesswork. We rely on data.
@@ -55,7 +55,7 @@ const ProductStorySection = () => {
                         </div>
                         <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3">The Solution</h3>
                         <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
-                            An autonomous scanning rover that maps every inch of soil. Agro-Rover detects moisture levels at the root, not just the surface.
+                            An autonomous scanning rover that maps every inch of soil. Garden Rover detects moisture levels at the root, not just the surface.
                         </p>
                     </motion.div>
 

@@ -17,7 +17,7 @@ const Navbar = () => {
                         <div className="w-8 h-8 rounded-lg bg-emerald-500 flex items-center justify-center">
                             <span className="text-white font-bold text-lg">A</span>
                         </div>
-                        <span className="text-emerald-700 dark:text-emerald-400 font-bold text-xl tracking-tight">AGRO-ROVER</span>
+                        <span className="text-emerald-700 dark:text-emerald-400 font-bold text-xl tracking-tight">Garden Rover</span>
                     </div>
 
                     {/* Desktop Menu */}

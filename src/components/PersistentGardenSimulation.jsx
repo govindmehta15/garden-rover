@@ -372,11 +372,11 @@ const PersistentGardenSimulation = () => {
                     <div key={log.id} className="flex gap-2 py-1 px-2 hover:bg-white/5 rounded">
                         <span className="text-gray-500">[{log.time}]</span>
                         <span className={`font-bold ${log.type === 'ERROR' ? 'text-red-500' :
-                                log.type === 'SUCCESS' ? 'text-green-500' :
-                                    log.type === 'WARNING' ? 'text-yellow-500' :
-                                        log.type === 'SENSOR' ? 'text-purple-400' :
-                                            log.type === 'NAV' ? 'text-blue-400' :
-                                                'text-gray-400'
+                            log.type === 'SUCCESS' ? 'text-green-500' :
+                                log.type === 'WARNING' ? 'text-yellow-500' :
+                                    log.type === 'SENSOR' ? 'text-purple-400' :
+                                        log.type === 'NAV' ? 'text-blue-400' :
+                                            'text-gray-400'
                             }`}>[{log.type}]</span>
                         <span className="text-gray-300">{log.msg}</span>
                     </div>
@@ -392,7 +392,7 @@ const PersistentGardenSimulation = () => {
                 <div className="w-8 h-8 bg-gradient-to-br from-blue-600 to-purple-600 rounded-lg flex items-center justify-center shadow-lg">
                     <Radar className="text-white" size={18} />
                 </div>
-                <h1 className="font-bold tracking-wider">AGRI-BOT <span className="text-blue-500">MISSION CONTROL</span></h1>
+                <h1 className="font-bold tracking-wider">Garden Rover <span className="text-blue-500">MISSION CONTROL</span></h1>
             </div>
 
             <div className="flex bg-black/40 p-1 rounded-lg border border-white/5 gap-1">
